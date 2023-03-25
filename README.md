@@ -1,3 +1,7 @@
+# View Demo: https://gym-exercises-application.netlify.app/
+
+## Using: Reactjs, Router, Material UI, RapidAPI
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
